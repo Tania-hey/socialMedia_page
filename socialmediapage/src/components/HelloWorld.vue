@@ -34,7 +34,7 @@ export default {
 <style scoped>
 .bgImg {
   position: relative; /* Permite overlay-ului să se poziționeze relativ față de background */
-  background-image: url('../img/atelierGol.png'); /* Asigură-te că calea este corectă */
+  background-image: url('../img/atelierPlin.jpeg'); /* Asigură-te că calea este corectă */
   background-size: cover; /* Acoperă întregul spațiu disponibil */
   background-position: center; /* Centrează imaginea */
   min-height: 100vh; /* Asigură-te că fundalul acoperă întreaga înălțime */
